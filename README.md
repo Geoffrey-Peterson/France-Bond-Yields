@@ -5,6 +5,9 @@ Replication files accompanying the research paper:
 > **Is France at Risk? A Bond Market-Based Assessment of Fiscal Sustainability**
 
 ---
+## Replication Package
+
+**DOI:** https://doi.org/10.5281/zenodo.21342625
 
 ## Overview
 
